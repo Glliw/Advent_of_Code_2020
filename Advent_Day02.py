@@ -60,33 +60,6 @@ for row in list_data: #start the iteration through the data file.  will iterate 
             
     
     final_list.append(split_data)
-    
-        
-
-# print(len(split_data))
-# print(len(final_list))
-# print(final_list[998][2])
-# print(final_list[998])
-#gofindchar = final_list[998][1].find("q")
-#print(gofindchar)
-#print(final_list)
-
-# Range = final_list[998][0]
-# Range_start = int(Range[0] + Range[1])
-# Print
-
-
-# if char_count == 3: 
-#     print(Range_start[0])
-# elif char_count == 5:
-    
-    
-
-
-
-
-
-
 
 
 Raw_Data.close()
